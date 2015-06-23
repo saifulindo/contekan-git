@@ -5,6 +5,7 @@ Contekan-*Git* diambil secara ngawur dari translate *Cheatsheet*, mungkin lebih 
 
 Contekan-*Git* ini dibuat dalam format *.docx, saya berharap ada ikut yang berkontribusi, kemudian beralih menggunkan OpenOffice atau LibreOffice.
 
+`contekan-git` sudah saya bukukan dengan format yang mudah dikembangkan, pada sebuah penyedia layanan pembuatan buku [GitBook](https://www.gitbook.com/), yang anda juga dapat turut serta mengembangkan di tautan repositori GitHub `https://github.com/saifulindo/gitbook-contekan-git`
 
 Cara ikut berkontribusi dalam pengembangan contekan-*Git* :
 ----------------------
